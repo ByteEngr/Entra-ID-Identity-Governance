@@ -4,15 +4,15 @@ Entra ID Identity Governance Toolkit
 
 This repository contains demo templates and automation scripts for:
 
-Conditional Access
+1. Conditional Access
 
-Access Reviews
+2. Access Reviews
 
-Entitlement Management
+3. Entitlement Management
 
-Governance Workflows
+4. Governance Workflows
 
-RBAC and Privileged Identity Management (PIM)
+5. RBAC and Privileged Identity Management (PIM)
 
 Included:
 
