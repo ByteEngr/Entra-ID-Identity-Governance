@@ -1,3 +1,5 @@
+# Script to simplify identity Governance
+
 Import-Module Microsoft.Graph.Identity.Governance
 . .\Connect-Graph.ps1
 
