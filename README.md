@@ -16,10 +16,10 @@ This repository contains demo templates and automation scripts for:
 
 Included:
 
-JSON templates for CA and governance policies
+- JSON templates for CA and governance policies
 
-Graph API scripts for automation
+- Graph API scripts for automation
 
-Governance architecture diagrams
+- Governance architecture diagrams
 
-Documentation for enterprise governance models
+- Documentation for enterprise governance models
